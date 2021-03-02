@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "929384232358",
+    "firebase_url": "https://strange-metrics-273216.firebaseio.com",
+    "project_id": "strange-metrics-273216",
+    "storage_bucket": "strange-metrics-273216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929384232358:android:90280f59a6c07f8cb38b67",
+        "android_client_info": {
+          "package_name": "com.example.work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929384232358-o312m3p9h7uo1s59n2295mnplp8tvjc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRXPDzSPjn5Wb5SYfaaMI_JVUkzEE19a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929384232358-o312m3p9h7uo1s59n2295mnplp8tvjc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
